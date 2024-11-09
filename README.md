@@ -9,10 +9,7 @@ Welcome to the **Hospital Management System** project. This is a web-based appli
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
--
-  
+
 ---
 
 ## About the Project
