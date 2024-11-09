@@ -11,10 +11,7 @@ Welcome to the **Hospital Management System** project. This is a web-based appli
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Database Setup](#database-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+-
   
 ---
 
@@ -46,9 +43,6 @@ The **Hospital Management System** is developed to help hospitals manage all nec
 
 ---
 
-## Installation
-
-Follow these steps to get a local copy of the project up and running.
 
 ### Prerequisites
 
